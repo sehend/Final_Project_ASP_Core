@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Core.Models.ssd>
+@{
+    ViewData["Title"] = "SSD";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<div class="container">
+
+    <div class="row ">
+        @foreach (var item in Model)
+        {
+
+
+
+            <div class="col-lg-4">
+
+                <div class="card" style="width: 18rem;margin-top:60px">
+
+                    <img src="~/image/ssd/@item.imageName" asp-append-version="true" />
+                    <div class="card-body">
+                        <h5 class="card-title"> @Html.DisplayFor(modelItem => item.Aciklama)</h5>
+
+                        <a href="@Url.Action("Create","TblSatis")" class="btn btn-primary"> @item.Fiyat</a>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+        }
+    </div>
+
+</div>
+
+
+

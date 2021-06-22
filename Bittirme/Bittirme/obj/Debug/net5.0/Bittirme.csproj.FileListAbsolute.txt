@@ -1,0 +1,415 @@
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.csprojAssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.RazorAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.RazorAssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Data.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\staticwebassets\Bittirme.StaticWebAssets.Manifest.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\staticwebassets\Bittirme.StaticWebAssets.xml
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\scopedcss\bundle\Bittirme.styles.css
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.TagHelpers.input.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.TagHelpers.output.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.RazorCoreGenerate.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.RazorTargetAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.RazorTargetAssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\appsettings.json
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Bittirme.exe
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Bittirme.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Bittirme.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Bittirme.runtimeconfig.dev.json
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Bittirme.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ref\Bittirme.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Bittirme.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Bittirme.Views.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Bittirme.Views.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Data.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.Views.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.csproj.CopyComplete
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\ref\Bittirme.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Bittirme.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Ekrankartis\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Ekrankartis\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Ekrankartis\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Ekrankartis\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Ekrankartis\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\mice\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\mice\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\mice\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\mice\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\mice\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\rams\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\rams\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\rams\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\rams\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\rams\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\ssds\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\ssds\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\ssds\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\ssds\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\ssds\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Urunlers\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Urunlers\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Urunlers\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Urunlers\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\Urunlers\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblMudurs\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblMudurs\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblMudurs\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblMudurs\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblMudurs\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblMusteris\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblMusteris\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblMusteris\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblMusteris\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblMusteris\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblPersonels\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblPersonels\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblPersonels\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblPersonels\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblPersonels\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblSatis\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblSatis\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblSatis\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblSatis\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme\Bittirme\obj\Debug\net5.0\Razor\Views\TblSatis\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\appsettings.json
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Bittirme.exe
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Bittirme.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Bittirme.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Bittirme.runtimeconfig.dev.json
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Bittirme.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ref\Bittirme.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Bittirme.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Bittirme.Views.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Bittirme.Views.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Data.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\bin\Debug\net5.0\Data.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.RazorAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.RazorAssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\staticwebassets\Bittirme.StaticWebAssets.Manifest.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\staticwebassets\Bittirme.StaticWebAssets.xml
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\scopedcss\bundle\Bittirme.styles.css
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.TagHelpers.input.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.TagHelpers.output.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.RazorCoreGenerate.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Ekrankartis\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Ekrankartis\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Ekrankartis\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Ekrankartis\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Ekrankartis\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\mice\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\mice\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\mice\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\mice\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\mice\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\rams\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\rams\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\rams\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\rams\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\rams\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\ssds\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\ssds\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\ssds\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\ssds\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\ssds\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblMudurs\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblMudurs\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblMudurs\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblMudurs\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblMudurs\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblMusteris\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblMusteris\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblMusteris\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblMusteris\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblMusteris\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblPersonels\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblPersonels\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblPersonels\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblPersonels\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblPersonels\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblSatis\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblSatis\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblSatis\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblSatis\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\TblSatis\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Urunlers\Create.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Urunlers\Delete.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Urunlers\Details.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Urunlers\Edit.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Urunlers\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.RazorTargetAssemblyInfo.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.RazorTargetAssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.Views.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.csproj.CopyComplete
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\ref\Bittirme.dll
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.pdb
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Home\GirisYap.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Home\Ram.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Home\Mouse.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Home\SSD.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Home\EkranKartı.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\HomeSatıs\EkranKartı.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\HomeSatıs\Ram.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\HomeSatıs\Mouse.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\HomeSatıs\SSD.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\HomeSatıs\Index.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Excel\MusterisExcel.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Excel\SatısExcel.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Excel\PersonelExcel.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Excel\MudurExcel.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Excel\RamExcel.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Excel\EkranKartıExcel.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Excel\mouseExcel.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Razor\Views\Excel\ssdExcel.cshtml.g.cs
+C:\Users\sehen\OneDrive\Masaüstü\Bittirme - Kopya\Bittirme\obj\Debug\net5.0\Bittirme.csproj.AssemblyReference.cache

@@ -1,0 +1,101 @@
+﻿@model IEnumerable<Core.Models.TblPersonel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<a href="@Url.Action("Index","Ekrankartis")" class="btn btn-primary">Ekrankartis</a>
+<a href="@Url.Action("Index","mice")" class="btn btn-primary">Mouse</a>
+<a href="@Url.Action("Index","rams")" class="btn btn-primary">rams</a>
+<a href="@Url.Action("Index","ssds")" class="btn btn-primary">ssds</a>
+<a href="@Url.Action("RamExcel","Excel")" class="btn btn-primary">RamExcel</a>
+<a href="@Url.Action("EkranKartıExcel","Excel")" class="btn btn-primary">EkranKartıExcel</a>
+<a href="@Url.Action("mouseExcel","Excel")" class="btn btn-primary">mouseExcel</a>
+<a href="@Url.Action("ssdExcel","Excel")" class="btn btn-primary">ssdExcel</a>
+<a href="@Url.Action("Index","TblSatis")" class="btn btn-primary">Satıs</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.imageName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Soyad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Adress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PersonelMaas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Müdürıd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Kategoriıd)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="~/image/Personel/@item.imageName" asp-append-version="true" width="50" height="50" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Soyad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Adress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PersonelMaas)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Müdürıd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kategoriıd)
+                </td>
+                <td>
+                   
+                    <a asp-action="Details" asp-route-id="@item.Personelıd">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Personelıd">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

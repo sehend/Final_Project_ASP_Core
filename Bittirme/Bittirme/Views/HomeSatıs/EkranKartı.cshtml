@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Core.Models.Ekrankarti>
+@{
+    ViewData["Title"] = "EkranKartı";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h1>EkranKartı</h1>
+
+<div class="container">
+
+    <div class="row ">
+        @foreach (var item in Model)
+        {
+
+
+
+            <div class="col-lg-4">
+
+                <div class="card" style="width: 18rem;margin-top:60px">
+                    <img src="~/image/EkranKartı/@item.imageName" asp-append-version="true" />
+                    <div class="card-body">
+                        <h5 class="card-title"> @Html.DisplayFor(modelItem => item.Aciklama)</h5>
+
+                        <a href="#" class="btn btn-primary"> @item.Fiyat</a>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+        }
+    </div>
+
+</div>

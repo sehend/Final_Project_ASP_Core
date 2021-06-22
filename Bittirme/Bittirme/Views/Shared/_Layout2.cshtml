@@ -1,0 +1,85 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Bittirme_Projesi</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">
+</head>
+<body>
+
+
+
+    <nav class="navbar  navbar-expand-md navbar-dark bg-dark fixed-top  " style="background-color:#900000 !important;">
+
+        <div class=" container">
+            <a class="navbar-brand" href="#">Navbar</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse " id="navbarNav">
+                <ul class="navbar-nav mx-auto ">
+                    <li class="nav-item active">
+                        <a class="nav-link text-warning " href="@Url.Action("Index","HomeSatıs")">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active text-warning" href="@Url.Action("EkranKartı","HomeSatıs")">Ekran Kartı</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link active text-warning" href="@Url.Action("Ram","HomeSatıs")">Ram</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link active text-warning" href="@Url.Action("Mouse","HomeSatıs")">Mouse</a>
+                    </li>
+
+
+                    <li class="nav-item">
+                        <a class="nav-link active text-warning" href="@Url.Action("SSD","HomeSatıs")">SSD</a>
+                    </li>
+
+
+                    <li class="nav-item">
+                        <a class="nav-link active text-warning" href="@Url.Action("Index","Home")">Çıkış Yap</a>
+                    </li>
+
+
+
+                </ul>
+
+
+
+
+            </div>
+
+        </div>
+
+
+    </nav>
+
+
+
+
+
+    @RenderBody()
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - Bittirme_Projesi - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+

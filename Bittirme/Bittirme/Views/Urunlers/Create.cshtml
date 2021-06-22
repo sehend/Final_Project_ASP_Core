@@ -1,0 +1,48 @@
+﻿@model Core.Models.Urunler
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Urunler</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ramıd" class="control-label"></label>
+                <input asp-for="ramıd" class="form-control" />
+                <span asp-validation-for="ramıd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ssdıd" class="control-label"></label>
+                <input asp-for="ssdıd" class="form-control" />
+                <span asp-validation-for="ssdıd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="mouseId" class="control-label"></label>
+                <select asp-for="mouseId" class ="form-control" asp-items="ViewBag.mouseId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ekrankartııd" class="control-label"></label>
+                <input asp-for="ekrankartııd" class="form-control" />
+                <span asp-validation-for="ekrankartııd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
